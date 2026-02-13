@@ -20,6 +20,11 @@ The dataset includes Open, High, Low, Close, Volume, and Turnover values.
 - Observed market trend fluctuations
 - Identified volatility in price movements
 - Analyzed trading volume and turnover patterns
+  
+ ## 📊 NIFTY 50 Closing Price Trend (2025)
+
+![NIFTY 50 Chart](nifty50-chart.png)
+
 
 ## 🚀 Skills Demonstrated
 - Data Analysis
